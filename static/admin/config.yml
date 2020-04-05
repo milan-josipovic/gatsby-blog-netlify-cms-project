@@ -1,5 +1,4 @@
 backend:
-  name: test-repo
   name: github
   repo: milan-josipovic/gatsby-blog-netlify-cms-project
 
